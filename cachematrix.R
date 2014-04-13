@@ -1,5 +1,8 @@
 ##The below functions cache the inverse of a matrix.
 
+##Code below is the same as makeVector and cachemean provided by
+##instructor as an example it is just tweaked to handle matrices
+
 ## The makeCacheMatrix function creates a special "matrix" object
 ## that can cache its inverse.
 ## Matrix should be invertible (i.e. a square matrix)
